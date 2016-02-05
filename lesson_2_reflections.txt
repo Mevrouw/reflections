@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+	a .git file is added to you directory so you can start adding commits. Git needs to know about this directory before it can start saving versions.
