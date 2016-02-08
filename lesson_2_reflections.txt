@@ -6,4 +6,13 @@ How is the staging area different from the working directory and the repository?
 	It helps making commits more logical, as you get to chose which file you want to b	e a part of the commit.
 
 How can you use the staging area to make sure you have one commit per logical change?
+
 	It allows you to add only the file(s) that belong to the described. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	If you want to keep different versions of your work, you can keep al the changes you make in different branches. It also gives the freedom of experimenting into different directions at the same time.
+
+How do the diagrams help you visualize the branch structure?
+
+	By showing the structure of the work of the branch...
